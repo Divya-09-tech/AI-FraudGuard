@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+venv/
+.env
+backend/models/*.joblib
+frontend/node_modules/
+frontend/dist/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+backend/fraud_guard.db
