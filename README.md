@@ -73,3 +73,16 @@ The system combines machine-learning classification with explainable rule-based 
 │      SQLite         │
 │  Analysis History   │
 └─────────────────────┘
+## Screenshots
+
+### Application Dashboard
+![AI FraudGuard Dashboard](screenshots/dashboard.png)
+
+### Phishing Detection
+![Phishing Detection](screenshots/phishing-result.png)
+
+### Spam Detection
+![Spam Detection](screenshots/spam.png)
+
+### Legitimate Email Detection
+![Legitimate Email Detection](screenshots/legitimate-result.png)
